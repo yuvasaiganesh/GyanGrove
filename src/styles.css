@@ -1,0 +1,25 @@
+body {
+    font-family: 'Inter', sans-serif;
+    background-color: #ffffff;
+    color: #1E2022;
+  }
+  
+  h1, h2, h3, h4, h5, h6 {
+    color: #1E2022;
+    
+  }
+  h3{
+    font-size: 14px;
+  }
+  .subtitle {
+    color: #989090;
+  }
+  
+  .logo {
+    color: #CF2D2D;
+  }
+  
+  .border {
+    border-color: #B0BABF;
+  }
+  

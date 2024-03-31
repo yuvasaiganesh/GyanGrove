@@ -1,0 +1,17 @@
+
+.event-list {
+    overflow-x: scroll;
+    white-space: nowrap;
+    width: 100%; 
+  }
+  
+  .horizontal-scroll {
+    display: flex;
+  }
+  
+  .event-card {
+    flex: 0 0 auto; 
+    margin-right: 20px; 
+    
+  }
+  

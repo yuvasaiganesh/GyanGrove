@@ -1,0 +1,16 @@
+.upcoming-events {
+    height: 300px; 
+    overflow-y: auto; 
+  }
+  
+  .details{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+  }
+  .eventdesc{
+    font-size:15px;
+   
+  }
+  
